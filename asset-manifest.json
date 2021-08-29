@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://hack-sam.github.io/csb-imtev/static/js/main.71b18cff.chunk.js",
-    "main.js.map": "https://hack-sam.github.io/csb-imtev/static/js/main.71b18cff.chunk.js.map",
-    "runtime-main.js": "https://hack-sam.github.io/csb-imtev/static/js/runtime-main.88cd0783.js",
-    "runtime-main.js.map": "https://hack-sam.github.io/csb-imtev/static/js/runtime-main.88cd0783.js.map",
-    "static/js/2.1ff271ea.chunk.js": "https://hack-sam.github.io/csb-imtev/static/js/2.1ff271ea.chunk.js",
-    "static/js/2.1ff271ea.chunk.js.map": "https://hack-sam.github.io/csb-imtev/static/js/2.1ff271ea.chunk.js.map",
-    "index.html": "https://hack-sam.github.io/csb-imtev/index.html",
-    "static/js/2.1ff271ea.chunk.js.LICENSE.txt": "https://hack-sam.github.io/csb-imtev/static/js/2.1ff271ea.chunk.js.LICENSE.txt"
+    "main.js": "https://.github.io/csb-imtev/static/js/main.c423209c.chunk.js",
+    "main.js.map": "https://.github.io/csb-imtev/static/js/main.c423209c.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-imtev/static/js/runtime-main.9ffa563a.js",
+    "runtime-main.js.map": "https://.github.io/csb-imtev/static/js/runtime-main.9ffa563a.js.map",
+    "static/js/2.1ff271ea.chunk.js": "https://.github.io/csb-imtev/static/js/2.1ff271ea.chunk.js",
+    "static/js/2.1ff271ea.chunk.js.map": "https://.github.io/csb-imtev/static/js/2.1ff271ea.chunk.js.map",
+    "index.html": "https://.github.io/csb-imtev/index.html",
+    "static/js/2.1ff271ea.chunk.js.LICENSE.txt": "https://.github.io/csb-imtev/static/js/2.1ff271ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88cd0783.js",
+    "static/js/runtime-main.9ffa563a.js",
     "static/js/2.1ff271ea.chunk.js",
-    "static/js/main.71b18cff.chunk.js"
+    "static/js/main.c423209c.chunk.js"
   ]
 }
